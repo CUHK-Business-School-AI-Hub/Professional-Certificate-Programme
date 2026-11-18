@@ -1,0 +1,89 @@
+{
+  "stage": "B",
+  "events": [
+    {
+      "sku": "CASE-011",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-012",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-013",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-014",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-015",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-016",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-017",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-018",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-019",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-020",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-031",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-061",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    }
+  ]
+}

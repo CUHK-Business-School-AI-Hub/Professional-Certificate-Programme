@@ -1,0 +1,13 @@
+﻿sku,week_start,observed_units,baseline_mean,baseline_sample_sd,upper_3sigma,confirmed_cause
+CASE-011,2026-11-09,308,56.0,10.547512,87.642535,one_off_wholesale
+CASE-012,2026-11-02,210,42.0,7.905694,65.717082,one_off_wholesale
+CASE-013,2026-11-09,140,28.0,5.315073,43.945219,one_off_wholesale
+CASE-014,2026-11-02,699,140.0,26.182055,218.546165,one_off_wholesale
+CASE-015,2026-11-09,701,140.0,26.182055,218.546165,one_off_wholesale
+CASE-016,2026-11-02,489,98.0,18.364368,153.093103,one_off_wholesale
+CASE-017,2026-11-09,281,56.0,10.547512,87.642535,one_off_wholesale
+CASE-018,2026-11-02,559,112.0,20.952327,174.856981,one_off_wholesale
+CASE-019,2026-11-09,842,168.0,31.492062,262.476187,one_off_wholesale
+CASE-020,2026-11-02,279,56.0,10.547512,87.642535,one_off_wholesale
+CASE-031,2026-11-09,231,42.0,7.905694,65.717082,one_off_wholesale
+CASE-061,2026-11-09,927,168.0,31.492062,262.476187,one_off_wholesale

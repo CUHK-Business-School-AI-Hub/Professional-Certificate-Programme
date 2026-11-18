@@ -1,0 +1,21 @@
+{
+  "synthetic": true,
+  "as_of_date": "2026-11-16",
+  "timezone": "Asia/Hong_Kong",
+  "market": "US classroom scenario",
+  "warehouse": "Single warehouse",
+  "units": "pieces",
+  "history_start": "2026-08-17",
+  "history_end": "2026-11-15",
+  "week_convention": "Monday through Sunday; complete weeks only",
+  "weights_newest_to_oldest": [
+    0.4,
+    0.3,
+    0.2,
+    0.1
+  ],
+  "daily_forecast": "weighted_weekly_demand / 7",
+  "date_semantics": "Snapshot before demand on as_of_date; arrivals available at start of their date.",
+  "future_validation_week_start": "2026-11-16",
+  "future_validation_week_end": "2026-11-22"
+}

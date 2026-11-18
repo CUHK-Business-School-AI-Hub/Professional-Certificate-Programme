@@ -1,0 +1,663 @@
+{
+  "stage": "D",
+  "events": [
+    {
+      "sku": "CASE-011",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-011",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-011",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-012",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-012",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-013",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-014",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-015",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-016",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-017",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-018",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-019",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-020",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-02",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-031",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-031",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-031",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-032",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-032",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-032",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-033",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-033",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-034",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-034",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-035",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-035",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-036",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-036",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-037",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-037",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-038",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-038",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-039",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-039",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-040",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-040",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-041",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-041",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-042",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-042",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-043",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-043",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-044",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-044",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-045",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-045",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-046",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-046",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-047",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-047",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-048",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-048",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-049",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-049",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-050",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-050",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-051",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-051",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-052",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-052",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-053",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-053",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-054",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-054",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-055",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-055",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-056",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-056",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-057",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-057",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-058",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-058",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-059",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-059",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-060",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-060",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-061",
+      "event_type": "member_day",
+      "week_start": "2026-11-02",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-061",
+      "event_type": "member_day",
+      "week_start": "2026-11-09",
+      "multiplier": 1.5,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-061",
+      "event_type": "one_off_wholesale",
+      "week_start": "2026-11-09",
+      "multiplier": null,
+      "effective_date": null
+    },
+    {
+      "sku": "CASE-061",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-062",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-063",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-064",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-065",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-066",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-067",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-068",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-069",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-070",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-071",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-072",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-073",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-074",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-075",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    },
+    {
+      "sku": "CASE-076",
+      "event_type": "clearance",
+      "week_start": null,
+      "multiplier": null,
+      "effective_date": "2026-11-16"
+    }
+  ]
+}

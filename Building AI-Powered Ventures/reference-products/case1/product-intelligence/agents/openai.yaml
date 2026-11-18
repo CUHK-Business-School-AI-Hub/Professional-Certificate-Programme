@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Intelligence"
+  short_description: "Trace new-product leads to original sources and verify models."
+  default_prompt: "Use $product-intelligence to research the latest products in my specified brand or product family and report in English with sources, dates and open questions."

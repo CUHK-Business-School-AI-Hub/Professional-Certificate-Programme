@@ -1,0 +1,152 @@
+[
+  {
+    "slide": 59,
+    "title": "Case Two: Replenishment Dashboard",
+    "phase": "Introduction",
+    "loop": ""
+  },
+  {
+    "slide": 60,
+    "title": "What Should You Reorder?",
+    "phase": "Delegate",
+    "loop": "Loop 1 \u00b7 Build the dashboard"
+  },
+  {
+    "slide": 61,
+    "title": "Start with Two Data Files",
+    "phase": "Delegate",
+    "loop": "Loop 1 \u00b7 Facts and boundaries"
+  },
+  {
+    "slide": 62,
+    "title": "Give Recent Sales More Weight",
+    "phase": "Delegate",
+    "loop": "Loop 1 \u00b7 Agree the rule"
+  },
+  {
+    "slide": 63,
+    "title": "Calculate the Replenishment Quantity",
+    "phase": "Delegate",
+    "loop": "Loop 1 \u00b7 Agree the rule"
+  },
+  {
+    "slide": 64,
+    "title": "Check When Stock Will Be Available",
+    "phase": "Delegate",
+    "loop": "Loop 1 \u00b7 Agree the timeline"
+  },
+  {
+    "slide": 65,
+    "title": "Delegate: Define the First Version",
+    "phase": "Delegate",
+    "loop": "Loop 1 \u00b7 The five-element brief"
+  },
+  {
+    "slide": 66,
+    "title": "Build the First Version",
+    "phase": "Delegate",
+    "loop": "Loop 1 \u00b7 Agent delivery"
+  },
+  {
+    "slide": 67,
+    "title": "Evaluate: Does the App Calculate Correctly?",
+    "phase": "Evaluate",
+    "loop": "Loop 1 \u00b7 Factual checks"
+  },
+  {
+    "slide": 68,
+    "title": "Evaluate: Does the Forecast Make Sense?",
+    "phase": "Evaluate",
+    "loop": "Loop 1 \u00b7 Compare with actual demand"
+  },
+  {
+    "slide": 69,
+    "title": "Coach: Handle Exceptional Sales",
+    "phase": "Coach",
+    "loop": "Loop 1 \u00b7 Diagnose and revise"
+  },
+  {
+    "slide": 70,
+    "title": "Evaluate: Rerun After Coaching",
+    "phase": "Evaluate",
+    "loop": "Loop 1 \u00b7 Close the loop"
+  },
+  {
+    "slide": 71,
+    "title": "Next Step: Add a chatbot as copilot",
+    "phase": "Delegate",
+    "loop": "Stage 2 \u00b7 Build an AI-powered product"
+  },
+  {
+    "slide": 72,
+    "title": "Get API Access for the Next Version",
+    "phase": "Preparation",
+    "loop": "Preparation for Loop 2"
+  },
+  {
+    "slide": 73,
+    "title": "Delegate: Build the Copilot",
+    "phase": "Delegate",
+    "loop": "Loop 2 \u00b7 Build the new version"
+  },
+  {
+    "slide": 74,
+    "title": "What Changes at Runtime?",
+    "phase": "Delegate",
+    "loop": "Loop 2 \u00b7 Inspect the new design"
+  },
+  {
+    "slide": 75,
+    "title": "Evaluate: Check the New App",
+    "phase": "Evaluate",
+    "loop": "Loop 2 \u00b7 Test the product behaviour"
+  },
+  {
+    "slide": 76,
+    "title": "Share Context with the Copilot",
+    "phase": "Coach",
+    "loop": "Loop 2 \u00b7 Add business context"
+  },
+  {
+    "slide": 77,
+    "title": "Evaluate: What Is Missing from the Data?",
+    "phase": "Evaluate",
+    "loop": "Loop 2 \u00b7 Business context"
+  },
+  {
+    "slide": 78,
+    "title": "Coach: Explain the Member Day Campaign",
+    "phase": "Coach",
+    "loop": "Loop 2 \u00b7 Explain the business event"
+  },
+  {
+    "slide": 79,
+    "title": "Evaluate: Check the Revised Recommendation",
+    "phase": "Evaluate",
+    "loop": "Loop 2 \u00b7 Same standards, new facts"
+  },
+  {
+    "slide": 80,
+    "title": "Coach: Explain a Clearance Decision",
+    "phase": "Coach",
+    "loop": "Loop 2 \u00b7 Record a business constraint"
+  },
+  {
+    "slide": 81,
+    "title": "Evaluate: Check an Inbound Delay",
+    "phase": "Evaluate",
+    "loop": "Loop 2 \u00b7 Preview and verify a scenario"
+  },
+  {
+    "slide": 82,
+    "title": "Your Turn: Complete the Loop",
+    "phase": "Delegate",
+    "loop": "Independent practice"
+  },
+  {
+    "slide": 83,
+    "title": "From Sample Data to Production",
+    "phase": "Coach",
+    "loop": "Carry the method into real work"
+  }
+]

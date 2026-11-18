@@ -1,0 +1,1002 @@
+[
+  {
+    "sku": "CASE-001",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-002",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-003",
+    "pattern": "rising",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-004",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-005",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-006",
+    "pattern": "falling",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-007",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-008",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-009",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-010",
+    "pattern": "falling",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-011",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-012",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-013",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-014",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-015",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-016",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-017",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-018",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-019",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-020",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-021",
+    "pattern": "rising",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-022",
+    "pattern": "falling",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-023",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-024",
+    "pattern": "rising",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-025",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-026",
+    "pattern": "rising",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-027",
+    "pattern": "rising",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-028",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-029",
+    "pattern": "rising",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-030",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-031",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-032",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-033",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-034",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-035",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-036",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-037",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-038",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-039",
+    "pattern": "stable",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-040",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-041",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-042",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-043",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-044",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-045",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-046",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-047",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-048",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-049",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-050",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-051",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-052",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-053",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-054",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-055",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-056",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-057",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-058",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-059",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-060",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-061",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-062",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-063",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-064",
+    "pattern": "falling",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-065",
+    "pattern": "rising",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-066",
+    "pattern": "rising",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-067",
+    "pattern": "rising",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-068",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-069",
+    "pattern": "rising",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-070",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-071",
+    "pattern": "falling",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-072",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-073",
+    "pattern": "falling",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-074",
+    "pattern": "rising",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-075",
+    "pattern": "falling",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-076",
+    "pattern": "rising",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-077",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-078",
+    "pattern": "rising",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-079",
+    "pattern": "falling",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-080",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-081",
+    "pattern": "falling",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-082",
+    "pattern": "rising",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-083",
+    "pattern": "stable",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-084",
+    "pattern": "rising",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-085",
+    "pattern": "falling",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-086",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-087",
+    "pattern": "falling",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-088",
+    "pattern": "falling",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-089",
+    "pattern": "rising",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-090",
+    "pattern": "rising",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-091",
+    "pattern": "rising",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-092",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-093",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-094",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-095",
+    "pattern": "rising",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-096",
+    "pattern": "rising",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-097",
+    "pattern": "falling",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-098",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-099",
+    "pattern": "stable",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-100",
+    "pattern": "falling",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-101",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-102",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-103",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-104",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-105",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-106",
+    "pattern": "rising",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-107",
+    "pattern": "rising",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-108",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-109",
+    "pattern": "rising",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-110",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-111",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-112",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-113",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-114",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-115",
+    "pattern": "falling",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-116",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-117",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-118",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-119",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-120",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-121",
+    "pattern": "rising",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-122",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-123",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-124",
+    "pattern": "stable",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-125",
+    "pattern": "falling",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-126",
+    "pattern": "rising",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-127",
+    "pattern": "stable",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-128",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-129",
+    "pattern": "rising",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-130",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-131",
+    "pattern": "rising",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-132",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-133",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-134",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-135",
+    "pattern": "rising",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-136",
+    "pattern": "falling",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-137",
+    "pattern": "rising",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-138",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-139",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-140",
+    "pattern": "rising",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-141",
+    "pattern": "falling",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-142",
+    "pattern": "rising",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-143",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-144",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-145",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-146",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-147",
+    "pattern": "stable",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-148",
+    "pattern": "stable",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-149",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-150",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-151",
+    "pattern": "rising",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-152",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-153",
+    "pattern": "rising",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-154",
+    "pattern": "falling",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-155",
+    "pattern": "rising",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-156",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-157",
+    "pattern": "rising",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-158",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-159",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-160",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-161",
+    "pattern": "rising",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-162",
+    "pattern": "falling",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-163",
+    "pattern": "falling",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-164",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-165",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-166",
+    "pattern": "rising",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-167",
+    "pattern": "rising",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-168",
+    "pattern": "rising",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-169",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-170",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-171",
+    "pattern": "rising",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-172",
+    "pattern": "rising",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-173",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-174",
+    "pattern": "rising",
+    "latent_base_weekly_units": 70
+  },
+  {
+    "sku": "CASE-175",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-176",
+    "pattern": "stable",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-177",
+    "pattern": "falling",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-178",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 84
+  },
+  {
+    "sku": "CASE-179",
+    "pattern": "stable",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-180",
+    "pattern": "rising",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-181",
+    "pattern": "falling",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-182",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-183",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-184",
+    "pattern": "rising",
+    "latent_base_weekly_units": 168
+  },
+  {
+    "sku": "CASE-185",
+    "pattern": "rising",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-186",
+    "pattern": "falling",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-187",
+    "pattern": "intermittent",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-188",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-189",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-190",
+    "pattern": "rising",
+    "latent_base_weekly_units": 98
+  },
+  {
+    "sku": "CASE-191",
+    "pattern": "stable",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-192",
+    "pattern": "falling",
+    "latent_base_weekly_units": 28
+  },
+  {
+    "sku": "CASE-193",
+    "pattern": "rising",
+    "latent_base_weekly_units": 112
+  },
+  {
+    "sku": "CASE-194",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-195",
+    "pattern": "rising",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-196",
+    "pattern": "stable",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-197",
+    "pattern": "rising",
+    "latent_base_weekly_units": 140
+  },
+  {
+    "sku": "CASE-198",
+    "pattern": "stable",
+    "latent_base_weekly_units": 56
+  },
+  {
+    "sku": "CASE-199",
+    "pattern": "stable",
+    "latent_base_weekly_units": 42
+  },
+  {
+    "sku": "CASE-200",
+    "pattern": "falling",
+    "latent_base_weekly_units": 28
+  }
+]

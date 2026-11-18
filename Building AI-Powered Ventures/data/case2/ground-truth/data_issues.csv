@@ -1,0 +1,6 @@
+﻿sku,file,record_key,field,hidden_value
+CASE-196,weekly_sales.csv,2026-11-09,units_sold,141
+CASE-197,weekly_sales.csv,2026-10-26,units_sold,137
+CASE-198,products.csv,CASE-198,lead_time_days,14
+CASE-199,products.csv,CASE-199,inbound_available_date,2026-11-20
+CASE-200,products.csv,CASE-200,safety_stock_days,3

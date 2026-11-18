@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "checks": [
+    "200 unique SKUs",
+    "2600 unique complete-week keys",
+    "no future truth in student inputs",
+    "12 exact wholesale flags; uplift-only cases below 3 sigma",
+    "5 missing-data holds, not zero recommendations",
+    "18 clearance overrides; normal controls unchanged",
+    "independent time-weight ordering and hand answers",
+    "all 1400 daily stock balances and weekly aggregates reconcile",
+    "delay and horizon boundary golden cases"
+  ],
+  "forecast_mae_units_per_week": {
+    "bulk_subset_A": 140.7333,
+    "bulk_subset_B": 7.752,
+    "campaign_subset_B": 32.4198,
+    "campaign_subset_C": 2.9448
+  },
+  "note": "Designed synthetic cases, not evidence of measured production accuracy."
+}

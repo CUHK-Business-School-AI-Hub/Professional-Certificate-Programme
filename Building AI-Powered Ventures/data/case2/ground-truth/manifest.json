@@ -1,0 +1,110 @@
+{
+  "seed": 20261117,
+  "sku_count": 200,
+  "historical_week_rows": 2600,
+  "future_daily_rows": 1400,
+  "bulk_skus": 12,
+  "campaign_skus": 32,
+  "clearance_skus": 18,
+  "three_sigma_flags": 12,
+  "intentional_missing_cells": 5,
+  "inbound_batches": 111,
+  "stage_status_counts": {
+    "A": {
+      "reorder": 124,
+      "no_order": 71,
+      "needs_data": 5
+    },
+    "B": {
+      "reorder": 120,
+      "no_order": 75,
+      "needs_data": 5
+    },
+    "C": {
+      "reorder": 115,
+      "no_order": 80,
+      "needs_data": 5
+    },
+    "D": {
+      "reorder": 97,
+      "no_order": 80,
+      "clearance": 18,
+      "needs_data": 5
+    }
+  },
+  "category_counts": {
+    "Hair care": 50,
+    "Audio": 50,
+    "Gaming": 50,
+    "Accessories": 25,
+    "Photography": 25
+  },
+  "bulk_sku_ids": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    31,
+    61
+  ],
+  "campaign_sku_ids": [
+    11,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61
+  ],
+  "clearance_sku_ids": [
+    12,
+    32,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76
+  ]
+}

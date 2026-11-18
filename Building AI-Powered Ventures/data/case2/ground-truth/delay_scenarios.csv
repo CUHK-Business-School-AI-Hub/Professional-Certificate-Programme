@@ -1,0 +1,4 @@
+﻿scenario,inbound_available_date,stage,sku,weekly_forecast_units,daily_forecast_units,planning_days,eligible_inbound_units,recommended_order_units,first_shortage_date,unmet_units_over_horizon,ending_inventory_units,excluded_weeks,status,reason
+baseline,2026-11-19,D,CASE-002,70.0,10.0,10,50,10,,0.0,0.0,0,reorder,
+inbound_delay_2_days,2026-11-21,D,CASE-002,70.0,10.0,10,50,10,2026-11-20,10.0,10.0,0,reorder,
+inbound_moves_outside_horizon,2026-11-26,D,CASE-002,70.0,10.0,10,0,60,2026-11-20,30.0,30.0,0,reorder,

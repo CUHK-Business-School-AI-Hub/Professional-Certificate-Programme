@@ -1,0 +1,201 @@
+﻿sku,product_name,category,on_hand_qty,lead_time_days,safety_stock_days,inbound_qty,inbound_available_date
+CASE-001,Hair dryer case - Black - Compact,Hair care,40,7,3,0,
+CASE-002,Headphone case - Black - Compact,Audio,40,7,3,50,2026-11-19
+CASE-003,Controller case - Black - Compact,Gaming,140,7,3,0,
+CASE-004,Speaker case - Black - Compact,Audio,100,7,3,0,
+CASE-005,Styling tool pouch - Black - Compact,Hair care,12,7,3,0,
+CASE-006,Cable organiser - Black - Compact,Accessories,25,7,3,0,
+CASE-007,Handheld console case - Black - Compact,Gaming,0,7,3,0,
+CASE-008,Camera case - Black - Compact,Photography,10,7,3,20,2026-11-28
+CASE-009,Hair dryer case - Navy - Compact,Hair care,80,7,3,20,2026-11-19
+CASE-010,Headphone case - Navy - Compact,Audio,40,7,3,50,2026-11-25
+CASE-011,Controller case - Navy - Compact,Gaming,29,14,10,56,2026-11-26
+CASE-012,Speaker case - Navy - Compact,Audio,15,7,3,0,
+CASE-013,Styling tool pouch - Navy - Compact,Hair care,173,21,3,28,2026-12-02
+CASE-014,Cable organiser - Navy - Compact,Accessories,119,14,3,0,
+CASE-015,Handheld console case - Navy - Compact,Gaming,700,28,7,70,2026-12-02
+CASE-016,Camera case - Navy - Compact,Photography,50,14,10,49,2026-12-12
+CASE-017,Hair dryer case - Grey - Compact,Hair care,42,28,7,56,2026-12-27
+CASE-018,Headphone case - Grey - Compact,Audio,728,28,7,56,2026-11-29
+CASE-019,Controller case - Grey - Compact,Gaming,156,7,3,0,
+CASE-020,Speaker case - Grey - Compact,Audio,322,21,10,28,2026-11-18
+CASE-021,Styling tool pouch - Grey - Compact,Hair care,63,28,7,168,2026-11-22
+CASE-022,Cable organiser - Grey - Compact,Accessories,87,21,10,84,2026-11-20
+CASE-023,Handheld console case - Grey - Compact,Gaming,191,14,7,147,2026-11-23
+CASE-024,Camera case - Grey - Compact,Photography,61,14,3,336,2026-11-18
+CASE-025,Hair dryer case - Teal - Compact,Hair care,73,7,7,56,2026-11-24
+CASE-026,Headphone case - Teal - Compact,Audio,182,21,7,105,2026-12-03
+CASE-027,Controller case - Teal - Compact,Gaming,434,21,10,0,
+CASE-028,Speaker case - Teal - Compact,Audio,504,21,7,105,2026-11-19
+CASE-029,Styling tool pouch - Teal - Compact,Hair care,691,21,3,112,2026-11-25
+CASE-030,Cable organiser - Teal - Compact,Accessories,882,28,7,0,
+CASE-031,Handheld console case - Teal - Compact,Gaming,144,14,10,0,
+CASE-032,Camera case - Teal - Compact,Photography,120,14,10,0,
+CASE-033,Hair dryer case - Sand - Compact,Hair care,434,21,10,0,
+CASE-034,Headphone case - Sand - Compact,Audio,65,7,3,0,
+CASE-035,Controller case - Sand - Compact,Gaming,202,21,3,84,2026-11-25
+CASE-036,Speaker case - Sand - Compact,Audio,88,14,3,42,2026-12-06
+CASE-037,Styling tool pouch - Sand - Compact,Hair care,196,21,7,70,2026-12-15
+CASE-038,Cable organiser - Sand - Compact,Accessories,99,28,10,28,2026-12-03
+CASE-039,Handheld console case - Sand - Compact,Gaming,78,7,3,0,
+CASE-040,Camera case - Sand - Compact,Photography,432,14,10,0,
+CASE-041,Hair dryer case - Black - Standard,Hair care,350,28,7,35,2026-12-04
+CASE-042,Headphone case - Black - Standard,Audio,273,28,7,42,2026-12-14
+CASE-043,Controller case - Black - Standard,Gaming,403,7,7,56,2026-11-30
+CASE-044,Speaker case - Black - Standard,Audio,620,21,10,280,2026-12-13
+CASE-045,Styling tool pouch - Black - Standard,Hair care,490,7,10,0,
+CASE-046,Cable organiser - Black - Standard,Accessories,109,14,7,84,2026-11-29
+CASE-047,Handheld console case - Black - Standard,Gaming,151,7,7,21,2026-11-18
+CASE-048,Camera case - Black - Standard,Photography,88,14,3,0,
+CASE-049,Hair dryer case - Navy - Standard,Hair care,112,21,10,84,2026-12-16
+CASE-050,Headphone case - Navy - Standard,Audio,21,7,3,0,
+CASE-051,Controller case - Navy - Standard,Gaming,67,21,3,84,2026-11-30
+CASE-052,Speaker case - Navy - Standard,Audio,749,21,3,84,2026-12-15
+CASE-053,Styling tool pouch - Navy - Standard,Hair care,432,7,3,252,2026-12-03
+CASE-054,Cable organiser - Navy - Standard,Accessories,87,21,10,0,
+CASE-055,Handheld console case - Navy - Standard,Gaming,250,21,3,224,2026-12-16
+CASE-056,Camera case - Navy - Standard,Photography,168,21,3,210,2026-12-16
+CASE-057,Hair dryer case - Grey - Standard,Hair care,223,28,3,14,2026-12-09
+CASE-058,Headphone case - Grey - Standard,Audio,104,7,3,224,2026-11-22
+CASE-059,Controller case - Grey - Standard,Gaming,146,21,7,56,2026-12-19
+CASE-060,Speaker case - Grey - Standard,Audio,560,21,7,0,
+CASE-061,Styling tool pouch - Grey - Standard,Hair care,84,7,7,0,
+CASE-062,Cable organiser - Grey - Standard,Accessories,140,21,7,0,
+CASE-063,Handheld console case - Grey - Standard,Gaming,78,28,3,0,
+CASE-064,Camera case - Grey - Standard,Photography,42,14,3,0,
+CASE-065,Hair dryer case - Teal - Standard,Hair care,140,21,7,0,
+CASE-066,Headphone case - Teal - Standard,Audio,51,14,3,0,
+CASE-067,Controller case - Teal - Standard,Gaming,93,21,10,0,
+CASE-068,Speaker case - Teal - Standard,Audio,126,14,7,0,
+CASE-069,Styling tool pouch - Teal - Standard,Hair care,105,28,7,0,
+CASE-070,Cable organiser - Teal - Standard,Accessories,84,14,7,0,
+CASE-071,Handheld console case - Teal - Standard,Gaming,84,7,7,0,
+CASE-072,Camera case - Teal - Standard,Photography,31,21,10,0,
+CASE-073,Hair dryer case - Sand - Standard,Hair care,105,14,7,0,
+CASE-074,Headphone case - Sand - Standard,Audio,60,14,10,0,
+CASE-075,Controller case - Sand - Standard,Gaming,50,7,3,0,
+CASE-076,Speaker case - Sand - Standard,Audio,68,14,3,0,
+CASE-077,Styling tool pouch - Sand - Standard,Hair care,410,28,10,84,2026-12-11
+CASE-078,Cable organiser - Sand - Standard,Accessories,88,7,10,14,2026-12-03
+CASE-079,Handheld console case - Sand - Standard,Gaming,86,21,3,0,
+CASE-080,Camera case - Sand - Standard,Photography,121,21,10,63,2026-12-20
+CASE-081,Hair dryer case - Black - Large,Hair care,291,7,7,168,2026-11-23
+CASE-082,Headphone case - Black - Large,Audio,380,28,10,105,2026-12-08
+CASE-083,Controller case - Black - Large,Gaming,670,21,10,0,
+CASE-084,Speaker case - Black - Large,Audio,78,21,7,0,
+CASE-085,Styling tool pouch - Black - Large,Hair care,374,21,3,168,2026-11-29
+CASE-086,Cable organiser - Black - Large,Accessories,156,7,3,336,2026-11-27
+CASE-087,Handheld console case - Black - Large,Gaming,288,7,3,224,2026-11-21
+CASE-088,Camera case - Black - Large,Photography,46,28,3,35,2026-12-17
+CASE-089,Hair dryer case - Navy - Large,Hair care,152,28,3,49,2026-11-22
+CASE-090,Headphone case - Navy - Large,Audio,216,7,3,84,2026-11-20
+CASE-091,Controller case - Navy - Large,Gaming,434,21,10,98,2026-12-22
+CASE-092,Speaker case - Navy - Large,Audio,98,21,7,70,2026-11-18
+CASE-093,Styling tool pouch - Navy - Large,Hair care,336,14,10,98,2026-12-17
+CASE-094,Cable organiser - Navy - Large,Accessories,1339,21,10,0,
+CASE-095,Handheld console case - Navy - Large,Gaming,133,7,10,84,2026-11-20
+CASE-096,Camera case - Navy - Large,Photography,15,7,3,70,2026-12-03
+CASE-097,Hair dryer case - Grey - Large,Hair care,484,28,3,0,
+CASE-098,Headphone case - Grey - Large,Audio,121,21,10,63,2026-12-12
+CASE-099,Controller case - Grey - Large,Gaming,242,21,10,42,2026-12-01
+CASE-100,Speaker case - Grey - Large,Audio,34,21,7,0,
+CASE-101,Styling tool pouch - Grey - Large,Hair care,91,7,7,140,2026-12-05
+CASE-102,Cable organiser - Grey - Large,Accessories,198,28,10,56,2026-11-22
+CASE-103,Handheld console case - Grey - Large,Gaming,224,7,7,0,
+CASE-104,Camera case - Grey - Large,Photography,36,14,10,0,
+CASE-105,Hair dryer case - Teal - Large,Hair care,82,14,7,0,
+CASE-106,Headphone case - Teal - Large,Audio,78,21,7,0,
+CASE-107,Controller case - Teal - Large,Gaming,304,28,10,56,2026-12-05
+CASE-108,Speaker case - Teal - Large,Audio,1116,21,10,0,
+CASE-109,Styling tool pouch - Teal - Large,Hair care,280,7,7,210,2026-11-17
+CASE-110,Cable organiser - Teal - Large,Accessories,186,21,10,0,
+CASE-111,Handheld console case - Teal - Large,Gaming,510,21,7,49,2026-11-20
+CASE-112,Camera case - Teal - Large,Photography,95,7,10,112,2026-11-20
+CASE-113,Hair dryer case - Sand - Large,Hair care,392,21,7,0,
+CASE-114,Headphone case - Sand - Large,Audio,228,28,10,63,2026-12-09
+CASE-115,Controller case - Sand - Large,Gaming,146,7,7,0,
+CASE-116,Speaker case - Sand - Large,Audio,182,7,3,147,2026-12-02
+CASE-117,Styling tool pouch - Sand - Large,Hair care,103,14,7,98,2026-11-29
+CASE-118,Cable organiser - Sand - Large,Accessories,62,21,3,0,
+CASE-119,Handheld console case - Sand - Large,Gaming,50,14,7,224,2026-12-02
+CASE-120,Camera case - Sand - Large,Photography,749,14,10,84,2026-11-21
+CASE-121,Hair dryer case - Black - Wide,Hair care,94,21,3,0,
+CASE-122,Headphone case - Black - Wide,Audio,82,14,7,84,2026-11-19
+CASE-123,Controller case - Black - Wide,Gaming,328,14,7,336,2026-12-01
+CASE-124,Speaker case - Black - Wide,Audio,448,21,7,112,2026-11-26
+CASE-125,Styling tool pouch - Black - Wide,Hair care,144,14,10,0,
+CASE-126,Cable organiser - Black - Wide,Accessories,260,21,10,252,2026-11-21
+CASE-127,Handheld console case - Black - Wide,Gaming,218,7,7,42,2026-11-18
+CASE-128,Camera case - Black - Wide,Photography,168,14,10,280,2026-11-25
+CASE-129,Hair dryer case - Navy - Wide,Hair care,168,14,7,28,2026-11-26
+CASE-130,Headphone case - Navy - Wide,Audio,310,28,3,0,
+CASE-131,Controller case - Navy - Wide,Gaming,242,21,10,84,2026-12-16
+CASE-132,Speaker case - Navy - Wide,Audio,186,28,10,0,
+CASE-133,Styling tool pouch - Navy - Wide,Hair care,19,28,3,28,2026-11-30
+CASE-134,Cable organiser - Navy - Wide,Accessories,380,28,10,105,2026-12-23
+CASE-135,Handheld console case - Navy - Wide,Gaming,564,21,10,49,2026-11-23
+CASE-136,Camera case - Navy - Wide,Photography,112,28,3,84,2026-11-28
+CASE-137,Hair dryer case - Grey - Wide,Hair care,547,28,10,84,2026-12-28
+CASE-138,Headphone case - Grey - Wide,Audio,204,14,3,126,2026-11-30
+CASE-139,Controller case - Grey - Wide,Gaming,60,7,3,0,
+CASE-140,Speaker case - Grey - Wide,Audio,484,28,3,0,
+CASE-141,Styling tool pouch - Grey - Wide,Hair care,59,21,7,98,2026-12-18
+CASE-142,Cable organiser - Grey - Wide,Accessories,84,28,7,112,2026-12-11
+CASE-143,Handheld console case - Grey - Wide,Gaming,184,7,10,21,2026-11-18
+CASE-144,Camera case - Grey - Wide,Photography,36,14,3,0,
+CASE-145,Hair dryer case - Teal - Wide,Hair care,109,21,7,0,
+CASE-146,Headphone case - Teal - Wide,Audio,364,21,7,140,2026-11-22
+CASE-147,Controller case - Teal - Wide,Gaming,510,21,7,0,
+CASE-148,Speaker case - Teal - Wide,Audio,49,7,7,35,2026-11-28
+CASE-149,Styling tool pouch - Teal - Wide,Hair care,12,7,3,28,2026-11-17
+CASE-150,Cable organiser - Teal - Wide,Accessories,173,14,10,42,2026-11-29
+CASE-151,Handheld console case - Teal - Wide,Gaming,23,28,10,0,
+CASE-152,Camera case - Teal - Wide,Photography,291,21,7,0,
+CASE-153,Hair dryer case - Sand - Wide,Hair care,806,21,10,210,2026-12-23
+CASE-154,Headphone case - Sand - Wide,Audio,250,21,3,112,2026-12-14
+CASE-155,Controller case - Sand - Wide,Gaming,408,14,3,0,
+CASE-156,Speaker case - Sand - Wide,Audio,168,14,10,0,
+CASE-157,Styling tool pouch - Sand - Wide,Hair care,84,21,3,0,
+CASE-158,Cable organiser - Sand - Wide,Accessories,25,21,7,63,2026-11-25
+CASE-159,Handheld console case - Sand - Wide,Gaming,227,14,7,0,
+CASE-160,Camera case - Sand - Wide,Photography,10,14,3,0,
+CASE-161,Hair dryer case - Black - XL,Hair care,50,14,7,0,
+CASE-162,Headphone case - Black - XL,Audio,173,21,3,56,2026-11-24
+CASE-163,Controller case - Black - XL,Gaming,84,21,3,0,
+CASE-164,Speaker case - Black - XL,Audio,67,21,3,112,2026-12-01
+CASE-165,Styling tool pouch - Black - XL,Hair care,106,28,10,28,2026-12-18
+CASE-166,Cable organiser - Black - XL,Accessories,168,21,3,280,2026-11-17
+CASE-167,Handheld console case - Black - XL,Gaming,52,7,3,0,
+CASE-168,Camera case - Black - XL,Photography,65,7,3,0,
+CASE-169,Hair dryer case - Navy - XL,Hair care,59,21,7,0,
+CASE-170,Headphone case - Navy - XL,Audio,109,7,7,84,2026-11-18
+CASE-171,Controller case - Navy - XL,Gaming,335,28,3,63,2026-11-21
+CASE-172,Speaker case - Navy - XL,Audio,50,21,3,0,
+CASE-173,Styling tool pouch - Navy - XL,Hair care,22,21,3,0,
+CASE-174,Cable organiser - Navy - XL,Accessories,98,21,7,70,2026-11-26
+CASE-175,Handheld console case - Navy - XL,Gaming,144,14,10,0,
+CASE-176,Camera case - Navy - XL,Photography,31,14,3,0,
+CASE-177,Hair dryer case - Grey - XL,Hair care,756,28,7,0,
+CASE-178,Headphone case - Grey - XL,Audio,593,28,10,126,2026-11-20
+CASE-179,Controller case - Grey - XL,Gaming,137,28,10,0,
+CASE-180,Speaker case - Grey - XL,Audio,612,14,3,140,2026-12-02
+CASE-181,Styling tool pouch - Grey - XL,Hair care,187,21,3,0,
+CASE-182,Cable organiser - Grey - XL,Accessories,62,14,10,14,2026-12-08
+CASE-183,Handheld console case - Grey - XL,Gaming,364,7,7,0,
+CASE-184,Camera case - Grey - XL,Photography,156,7,3,336,2026-11-20
+CASE-185,Hair dryer case - Teal - XL,Hair care,410,28,10,63,2026-12-16
+CASE-186,Headphone case - Teal - XL,Audio,208,7,3,0,
+CASE-187,Controller case - Teal - XL,Gaming,291,7,7,0,
+CASE-188,Speaker case - Teal - XL,Audio,59,14,7,0,
+CASE-189,Styling tool pouch - Teal - XL,Hair care,22,21,3,42,2026-11-24
+CASE-190,Cable organiser - Teal - XL,Accessories,346,28,10,98,2026-12-20
+CASE-191,Handheld console case - Teal - XL,Gaming,21,28,7,0,
+CASE-192,Camera case - Teal - XL,Photography,14,14,10,0,
+CASE-193,Hair dryer case - Sand - XL,Hair care,208,7,3,224,2026-11-22
+CASE-194,Headphone case - Sand - XL,Audio,36,14,3,0,
+CASE-195,Controller case - Sand - XL,Gaming,184,7,10,21,2026-11-25
+CASE-196,Speaker case - Sand - XL,Audio,273,14,7,140,2026-11-21
+CASE-197,Styling tool pouch - Sand - XL,Hair care,700,28,7,280,2026-11-28
+CASE-198,Cable organiser - Sand - XL,Accessories,245,,3,84,2026-11-25
+CASE-199,Handheld console case - Sand - XL,Gaming,60,7,3,70,
+CASE-200,Camera case - Sand - XL,Photography,72,7,,0,

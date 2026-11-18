@@ -1,0 +1,95 @@
+﻿sku,event_type,week_start,week_end,uplift_multiplier,one_off_units,effective_date,note
+CASE-011,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-011,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-011,one_off_wholesale,2026-11-09,2026-11-15,,224,,Confirmed one-off order; exclude this week after review.
+CASE-012,one_off_wholesale,2026-11-02,2026-11-08,,168,,Confirmed one-off order; exclude this week after review.
+CASE-012,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-013,one_off_wholesale,2026-11-09,2026-11-15,,112,,Confirmed one-off order; exclude this week after review.
+CASE-014,one_off_wholesale,2026-11-02,2026-11-08,,560,,Confirmed one-off order; exclude this week after review.
+CASE-015,one_off_wholesale,2026-11-09,2026-11-15,,560,,Confirmed one-off order; exclude this week after review.
+CASE-016,one_off_wholesale,2026-11-02,2026-11-08,,392,,Confirmed one-off order; exclude this week after review.
+CASE-017,one_off_wholesale,2026-11-09,2026-11-15,,224,,Confirmed one-off order; exclude this week after review.
+CASE-018,one_off_wholesale,2026-11-02,2026-11-08,,448,,Confirmed one-off order; exclude this week after review.
+CASE-019,one_off_wholesale,2026-11-09,2026-11-15,,672,,Confirmed one-off order; exclude this week after review.
+CASE-020,one_off_wholesale,2026-11-02,2026-11-08,,224,,Confirmed one-off order; exclude this week after review.
+CASE-031,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-031,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-031,one_off_wholesale,2026-11-09,2026-11-15,,168,,Confirmed one-off order; exclude this week after review.
+CASE-032,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-032,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-032,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-033,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-033,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-034,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-034,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-035,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-035,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-036,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-036,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-037,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-037,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-038,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-038,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-039,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-039,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-040,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-040,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-041,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-041,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-042,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-042,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-043,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-043,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-044,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-044,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-045,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-045,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-046,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-046,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-047,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-047,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-048,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-048,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-049,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-049,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-050,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-050,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-051,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-051,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-052,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-052,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-053,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-053,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-054,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-054,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-055,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-055,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-056,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-056,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-057,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-057,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-058,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-058,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-059,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-059,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-060,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-060,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-061,member_day,2026-11-02,2026-11-08,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-061,member_day,2026-11-09,2026-11-15,1.5,0,,Full-week event; no repeat event in the validation week.
+CASE-061,one_off_wholesale,2026-11-09,2026-11-15,,672,,Confirmed one-off order; exclude this week after review.
+CASE-061,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-062,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-063,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-064,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-065,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-066,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-067,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-068,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-069,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-070,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-071,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-072,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-073,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-074,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-075,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
+CASE-076,clearance,,,,0,2026-11-16,Do not place new replenishment orders; existing inbound still arrives.
