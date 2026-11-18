@@ -56,7 +56,7 @@ Case 2 需要 Python 3.10+，基础功能不需要额外 Python 或 Node 包。�
 
 ## 给 Philip 的 personal agent
 
-Open the [Dec2 branch of the programme repository](https://github.com/CUHK-Business-School-AI-Hub/Professional-Certificate-Programme/tree/Dec2) and enter `Building AI-Powered Ventures/`. For your first briefing, record the commit you inspected and follow the links below. For later updates, compare that commit with the new revision of this course directory and report changes that affect Philip's teaching.
+Open the [main branch of the programme repository](https://github.com/CUHK-Business-School-AI-Hub/Professional-Certificate-Programme/tree/main) and enter `Building AI-Powered Ventures/`. For your first briefing, record the commit you inspected and follow the links below. For later updates, compare that commit with the new revision of this course directory and report changes that affect Philip's teaching.
 
 | What Philip needs to know | Where to check |
 |---|---|
